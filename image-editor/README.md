@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/python-image-editor/screenshot.png)
+![screenshot](https://github.com/erinchocolate/python-GUI-exercise/blob/master/image-editor/screenshot.png)
 
 ## My process
 

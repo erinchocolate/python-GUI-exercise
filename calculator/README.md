@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 
-### ![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/GUI/python-calculator/screenshot.png)
+### ![screenshot](https://github.com/erinchocolate/python-GUI-exercise/blob/master/calculator/screenshot.png)
 
 
 ## My process
